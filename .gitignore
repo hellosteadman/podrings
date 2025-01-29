@@ -131,3 +131,6 @@ dist
 
 # macOS garbage
 .DS_Store
+
+# Local dev
+/db.sqlite
